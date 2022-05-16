@@ -5,6 +5,7 @@ dependencies:
 - jupyter_dash
 - geopandas 
 - python=3.7
+- pip
 - pip:
   - dash==0.35.1
   - dash-html-components==0.13.4
